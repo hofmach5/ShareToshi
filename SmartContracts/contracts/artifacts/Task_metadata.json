@@ -144,7 +144,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/task.sol": "Task"
+			"SmartContracts/contracts/task.sol": "Task"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -158,7 +158,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/task.sol": {
+		"SmartContracts/contracts/task.sol": {
 			"keccak256": "0x55768c2909261867306910daa2591e9a49dbc1bfa33709cc9857ca6d1c0d5f5b",
 			"urls": [
 				"bzz-raw://99de45c2f52a7be8a65dc82b28ed974e1f971a15ff4d77c4a8804ec5953532a4",

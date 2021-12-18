@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "increment",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SmartContracts/contracts/YouTube.sol": "YouTube"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SmartContracts/contracts/YouTube.sol": {
+			"keccak256": "0x2cd7ddda15bf7683d1956428f51abba0eff20f370eb0fc591b981cbd17ef61b5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://84adf78f835a60ab836e0e570b2caaebfb49e87984f8fb83202d9fe9b6e97472",
+				"dweb:/ipfs/QmdFaPsbipvZY9SB1kSrk6PykVtu8DL1yDDzs5FwXQPtZ8"
+			]
+		}
+	},
+	"version": 1
+}
