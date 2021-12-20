@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.10+commit.fc410830"
 	},
 	"language": "Solidity",
 	"output": {
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SmartContracts/contracts/YouTube.sol": "YouTube"
+			"SmartContracts/contracts/9_a new try.sol": "make"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"SmartContracts/contracts/YouTube.sol": {
-			"keccak256": "0x2cd7ddda15bf7683d1956428f51abba0eff20f370eb0fc591b981cbd17ef61b5",
+		"SmartContracts/contracts/9_a new try.sol": {
+			"keccak256": "0xc8d86dd7733596d290dfe52ea1f02281f0f1d5dd17a6322e0c15abe086749b87",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://84adf78f835a60ab836e0e570b2caaebfb49e87984f8fb83202d9fe9b6e97472",
-				"dweb:/ipfs/QmdFaPsbipvZY9SB1kSrk6PykVtu8DL1yDDzs5FwXQPtZ8"
+				"bzz-raw://b68ea7b30f13b5ca62c8cb022b1b3990e1e5624df754a91237946520254eef34",
+				"dweb:/ipfs/Qmb2x4PcXMwZb3JxXypqpvwMoWNffAaHGurKpuFDEML5hj"
 			]
 		}
 	},

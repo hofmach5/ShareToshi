@@ -7,7 +7,25 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "count",
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "decrement",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "initialSupply",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -20,7 +38,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "increment",
+				"name": "totalSupply",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -28,7 +46,7 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -45,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SmartContracts/contracts/YouTube.sol": "YouTube"
+			"SmartContracts/contracts/9_a new try.sol": "ShareToshiInitialSupply"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +77,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"SmartContracts/contracts/YouTube.sol": {
-			"keccak256": "0x2cd7ddda15bf7683d1956428f51abba0eff20f370eb0fc591b981cbd17ef61b5",
+		"SmartContracts/contracts/9_a new try.sol": {
+			"keccak256": "0x3089eec3a3bd78769f69792307ebe45356712d0a9be403f37d53a0a58f2d83c6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://84adf78f835a60ab836e0e570b2caaebfb49e87984f8fb83202d9fe9b6e97472",
-				"dweb:/ipfs/QmdFaPsbipvZY9SB1kSrk6PykVtu8DL1yDDzs5FwXQPtZ8"
+				"bzz-raw://8c6eea91634ebc54d65c32d3272d263c95a887285d5d6d2f7d5625af38e2f93c",
+				"dweb:/ipfs/QmZpVF5nEfGtHcDS2REjTEUGmTruQiEMX5YmW2J8iXFrsj"
 			]
 		}
 	},
