@@ -1,0 +1,32 @@
+.navbar-img {
+    height: 75px;
+}
+.navbar-brand-img {
+    height: 100px;
+}
+.stbutton {
+    color: white;
+    background-color: #030238;
+}
+.stbutton:hover {
+    background: linear-gradient(45deg, rgba(29,236,197,0.5), rgba(91,14,214,0.5) 100%);
+    background-color: linear-gradient(45deg, rgba(29,236,197,0.5), rgba(91,14,214,0.5) 100%);
+    color: whitesmoke;
+}
+
+.hoveritem:hover {
+      background: linear-gradient(45deg, rgba(29,236,197,0.5), rgba(91,14,214,0.5) 100%);
+   opacity:.9;
+   cursor: pointer;
+}
+
+.background {
+    background-image: url('Assets/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.smalltxt{
+    font-size: smaller;
+}
