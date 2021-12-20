@@ -1,3 +1,5 @@
+2021-12-20: Initial deployment - hofmach5
+
 # ShareToshi Smart Contract Implementation
 
 This project contains the implementation of the ERC20 tokens on solidity as well as the website mockup
